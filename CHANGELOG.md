@@ -40,6 +40,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Added implementation of `Borrow` and `BorrowMut` for `String` and `Vec`.
 - Added `Deque::{swap, swap_unchecked, swap_remove_front, swap_remove_back}`.
 - Added `get_index` and `get_index_mut` to `IndexMap`
+- Added `truncate` to `IndexMap`
 
 ### Changed
 
